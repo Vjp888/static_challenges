@@ -1,0 +1,62 @@
+.top-bar {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 15px;
+  background-color: red;
+  margin: 20px;
+  top: 0;
+}
+
+.navbar {
+  color: white;
+  background-color: dimgray;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 10px;
+  padding-right: 20px;
+}
+
+.art-pad {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.art-museum {
+  margin: 10px;
+  width: 800px;
+}
+
+.Prime_content {
+  margin: 30px;
+  width: 800px;
+  padding-left: 30px;
+}
+
+.dam {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin-left: 30px;
+}
+
+.side-image {
+  width: 200px;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  background-color: dimgray;
+  color: white;
+}
